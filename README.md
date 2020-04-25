@@ -5,3 +5,4 @@ Its for educational purposes only and i am not responsible if your account gets 
 
 # Known scammer sofwares:
 BEAMSZN
+Faqe - F A M E
