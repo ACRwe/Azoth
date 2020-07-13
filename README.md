@@ -3,7 +3,4 @@ Azoth is a powerfull OpenSource recoil script for Rust
 
 Its for educational purposes only and i am not responsible if your account gets banned.
 
-# Known scammer sofwares:
-BEAMSZN
-
-Faqe - F A M E
+UC post: https://www.unknowncheats.me/forum/rust/387209-azoth-recoilscript.html
