@@ -411,7 +411,7 @@
             this.metroLabel7.Name = "metroLabel7";
             this.metroLabel7.Size = new System.Drawing.Size(72, 19);
             this.metroLabel7.TabIndex = 2;
-            this.metroLabel7.Text = "Luby#4249";
+            this.metroLabel7.Text = "Luby#0002";
             this.metroLabel7.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.metroLabel7.UseCustomBackColor = true;
             // 
